@@ -1,5 +1,6 @@
 # 前言
 
+有关Surge的前往：https://github.com/getsomecat/GetSomeCats 本库忙不过来不维护了（
 &#x20;      本教程为Surge for iOS使用教程，仅面向新手，如需深入了解请查阅官方手册：[https://manual.nssurge.com/](https://manual.nssurge.com/)
 
 &#x20;      目前 ，Surge 已经被 Apple 根据政府要求从中国大陆区的 App Store 移除，之前在中国大陆商店购买此软件的用户将不能获得更新或重新下载。 Surge 目前最新版本为 Surge 5，可直接在非中国大陆区的Apple Store 搜到，免费下载安装。 Surge 的网络代理功能需要解锁 Pro 授权，可通过 AppStore 内购。 iOS 3个设备的授权价格49.99美元。
